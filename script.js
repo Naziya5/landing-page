@@ -1,5 +1,3 @@
-function scrollContact(){
-  document.getElementById("contact").scrollIntoView({
-    behavior:"smooth"
-  });
+function order(item){
+alert(item + " ordered successfully!");
 }
